@@ -1,13 +1,5 @@
-# Проект Todo List
+# Project [Todo List JavaScript](https://turzhanskyi.github.io/todo-list-js/index.html)
 
-#### Розділ 2: DOM. Маніпуляція елементами та події
+## [Udemy Course](https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/16226014#overview) Modern JavaScript + Vue from scratch on real projects.
 
-## Сучасний JavaScript + Vue з нуля на реальних проектах.
-
-Курс для початківців розробників. Практика на реальних проектах. Домашні завдання. JS ES6 +, Vue.js, ООП, AJAX, Webpack
-
-### Автор: Denys Mescheryakov
-
-Udemy URL: <https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/15546632#overview>
-
-Your site is ready to be published at <https://turzhanskyi.github.io/todo-list/index.html>
+### Instructor: [Denys Mescheryakov](https://www.udemy.com/user/denys-mescheryakov/)
